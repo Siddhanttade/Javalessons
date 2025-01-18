@@ -31,6 +31,6 @@ public class Sum2{
         double result=(f*b)+(i/c)-(d-s);
         System.out.println((f*b)+""+(i/c)+""+(d-s));
         //float + int - double=double
-        System.out.println(result);
+        System.out.println(result); //result will be from the biggest datatype among all
     }
 }
