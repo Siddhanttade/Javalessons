@@ -16,7 +16,6 @@ public class Condition4{
 
         //for loop
 
-
         // for(int i=0;i<=5;i++){
         //     System.out.println(i);
         // }
@@ -29,11 +28,22 @@ public class Condition4{
 
         //while loop
 
+        // int a=1;
+        // while (a<=5) {
+        //     System.out.println(a);
+        //     a++;
+        // }
 
-        int a=1;
-        while (a<=5) {
-            System.out.println(a);
-            a++;
-        }
+
+        //do-while loop
+
+        int n=1;
+        do{
+            System.out.println(n);
+            n++;
+        }while(n<=5);
+
+
+
     }
 }
