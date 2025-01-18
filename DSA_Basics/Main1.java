@@ -13,4 +13,4 @@ public class Main1{
         float marks=input.nextFloat(); //takes float as input
         System.out.println(marks); 
      }
-}
+}   
