@@ -10,7 +10,7 @@ public class Main1{
         // System.out.println(input.nextLine());   //for entire line
         String name=input.next();
         System.out.println(name);
-        float marks=input.nextFloat();
-        System.out.println(marks);
+        float marks=input.nextFloat(); //takes float as input
+        System.out.println(marks); 
      }
 }
