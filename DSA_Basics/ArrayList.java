@@ -27,7 +27,6 @@ public class Array10II {
         //output
         for (int i = 0; i < 5; i++) {
             System.out.println(list.get(i));//pass index here list[index wont wok here]
-        }
 
     }
 }
