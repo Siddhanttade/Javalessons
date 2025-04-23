@@ -46,7 +46,7 @@ public class LL1{
         size++;
 
     }
-
+    
     public int deleteFirst(){
         int value=head.value;
         head=head.next;
