@@ -29,6 +29,6 @@ public class inbuiltExample{
     Deque<Integer> deque=new ArrayDeque<>();//Helps to create  
     deque.add(10);
     deque.addLast(20); 
-    deque.removeFirst()
+    deque.removeFirst();
     }
 }
