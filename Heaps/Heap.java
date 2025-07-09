@@ -82,4 +82,8 @@ class Heap<T extends Comparable<T>> {
     }
     return data;
   }
+  
+  public int size() {
+    return this.list.size(); // or whatever internal structure you use
+  }
 }
